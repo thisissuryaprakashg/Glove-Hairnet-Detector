@@ -1,4 +1,3 @@
-'''C:\\Users\\surya\\Downloads\\200_runs_bioEL\\best.pt'''
 import customtkinter as ctk
 import cv2
 import time
